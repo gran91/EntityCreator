@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity>
+  <information id="1">
+    <name>M3Config</name>
+    <idlng>178</idlng>
+    <linkentity>environnment</linkentity>
+  </information>
+  <fields>
+    <field id="0">
+      <name>Nom</name>
+      <idlng>178</idlng>
+      <type>3</type>
+      <length>3</length>
+      <mandatory>1</mandatory>
+      <exist>1</exist>
+      <editable>1</editable>
+      <case>1</case>
+      <table>1</table>
+    </field>
+  </fields>
+</entity>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wifs>
+  <wif id="1">
+    <SSID>Terminal</SSID>
+    <Key>fdsfsdfsdfsdff</Key>
+  </wif>
+  <wif id="2">
+    <SSID>Test</SSID>
+    <Key>azertyuiop</Key>
+  </wif>
+</wifs>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity>
+	<information>
+		<name>customer</name>
+		<idlng>10</idlng>
+		<linkentity></linkentity>
+	</information>
+	<fields>
+		<field id="0">
+			<name>Name</name>
+			<idlng>11</idlng>
+			<type>0</type>
+			<length>10</length>
+			<mandatory>1</mandatory>
+			<exist>1</exist>
+			<editable>0</editable>
+			<case>0</case>
+			<table>1</table>
+		</field>
+	</fields>
+</entity>

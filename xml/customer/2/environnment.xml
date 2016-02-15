@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<envs>
+  <env id="1">
+    <name>TTTT</name>
+    <type>0</type>
+    <host />
+    <port />
+    <login />
+    <pass />
+    <pathMNE />
+    <logMNE />
+    <passMNE />
+  </env>
+</envs>
+

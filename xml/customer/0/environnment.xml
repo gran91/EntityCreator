@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<envs>
+  <env id="3">
+    <name>PROB</name>
+    <type>0</type>
+    <host>172.26.115.28</host>
+    <port>6666</port>
+    <login>M3SRVADM</login>
+    <pass>M371ADM</pass>
+    <pathMNE />
+    <logMNE />
+    <passMNE />
+  </env>
+  <env id="2">
+    <name>PROI</name>
+    <type>0</type>
+    <host>172.26.115.28</host>
+    <port>46666</port>
+    <login>M3SRVADM</login>
+    <pass>M371ADM</pass>
+    <pathMNE />
+    <logMNE />
+    <passMNE />
+  </env>
+  <env id="0">
+    <name>DVLP</name>
+    <type>0</type>
+    <host>172.26.115.91</host>
+    <port>36666</port>
+    <login>M3SRVADM</login>
+    <pass>M371ADM</pass>
+    <pathMNE />
+    <logMNE />
+    <passMNE />
+  </env>
+  <env id="1">
+    <name>PREP</name>
+    <type>1</type>
+    <host>172.26.115.91</host>
+    <port>26666</port>
+    <login>M3SRVADM</login>
+    <pass>M371ADM</pass>
+    <pathMNE />
+    <logMNE />
+    <passMNE />
+  </env>
+  <env id="4">
+    <name>TUTU</name>
+    <type>0</type>
+    <host />
+    <port />
+    <login />
+    <pass />
+    <pathMNE />
+    <logMNE />
+    <passMNE />
+  </env>
+  <env id="5">
+    <name>TOTOT</name>
+    <type>0</type>
+    <host>1321321321</host>
+    <port />
+    <login />
+    <pass />
+    <pathMNE />
+    <logMNE />
+    <passMNE />
+  </env>
+  <env id="6">
+    <name>YYY</name>
+    <type>-1</type>
+    <host />
+    <port />
+    <login />
+    <pass />
+    <pathMNE />
+    <logMNE />
+    <passMNE />
+  </env>
+</envs>
+

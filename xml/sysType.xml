@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<systs>
+  <syst id="0">
+    <name>AS400</name>
+  </syst>
+  <syst id="1">
+    <name>Windows</name>
+  </syst>
+</systs>
+

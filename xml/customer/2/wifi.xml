@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wifs>
+  <wif id="1">
+    <SSID>HJKH</SSID>
+    <Key>dlskmjdflkhljsqmqfdkqsm</Key>
+  </wif>
+  <wif id="2">
+    <SSID>Scoop</SSID>
+    <Key>sdfdd</Key>
+  </wif>
+  <wif id="3">
+    <SSID>TESTA</SSID>
+    <Key />
+  </wif>
+  <wif id="4">
+    <SSID>A</SSID>
+    <Key />
+  </wif>
+  <wif id="5">
+    <SSID>LALAL</SSID>
+    <Key>jslkdfhjfldsjflk</Key>
+  </wif>
+</wifs>
+

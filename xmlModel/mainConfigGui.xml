@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<desktop>
+  <general>
+  <title type="String">Bundle M3</title>
+  <icon></icon>
+  <taskbar>
+	<task id=0>
+		<icon></icon>
+		
+	</task>
+  </taskbar>
+  </general>
+  <listRibbonTask>
+	<ribonntask id=0>
+		<listRibbon>
+			<ribbon id=0>
+			
+			</ribbon>
+		</listRibbon>
+	</ribbontask>
+  </listRibbonTask>
+</desktop>

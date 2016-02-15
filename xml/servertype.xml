@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sers>
+  <ser id="0">
+    <name>AS400</name>
+  </ser>
+  <ser id="1">
+    <name>Windows</name>
+  </ser>
+  <ser id="2">
+    <Nom>Unix</Nom>
+  </ser>
+  <ser id="3">
+    <Nom>Cisco</Nom>
+  </ser>
+  <ser id="4">
+    <Nom>Oracle</Nom>
+  </ser>
+</sers>
+
